@@ -154,7 +154,7 @@ console.log(myNameIs.toUpperCase());
 let home = 'My home is Greenwood'
 console.log(home.includes('Greenwood'));
 
-let sent = "this sentence will be split into individula parts";
+let sent = "this sentence will be split into individual parts";
 // console.log(sent.split(new RegExp1(' ')));
 const words = sent.split(' ');
 console.log(words);

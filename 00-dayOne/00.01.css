@@ -1,0 +1,33 @@
+.myDiv {
+    border : 5px solid black;
+    border-radius: 5px;
+    background-color: gray;
+    height: 400px;
+}
+
+h1 {
+    color: lightgreen;
+    text-align: center;
+}
+
+h3 {
+    color: blue;
+}
+
+p {
+    color: red;
+}
+
+.true-lie {
+    border: 3px solid blueviolet;
+    border-radius: 15px;
+    background-color: lightgray;
+    padding: 10px;
+    text-align: center;
+    width: 400px;
+}
+
+.align {
+    display: flex;
+    justify-content: space-evenly;
+}
